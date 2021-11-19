@@ -36,12 +36,12 @@ module.exports = {
             },
             h1: {
               fontWeight: '700',
-              letterSpacing: theme('letterSpacing.tight'),
+              letterSpacing: theme('letterSpacing.normal'),
               color: theme('colors.gray.900'),
             },
             h2: {
               fontWeight: '700',
-              letterSpacing: theme('letterSpacing.tight'),
+              letterSpacing: theme('letterSpacing.normal'),
               color: theme('colors.gray.900'),
             },
             h3: {
@@ -101,12 +101,12 @@ module.exports = {
             },
             h1: {
               fontWeight: '700',
-              letterSpacing: theme('letterSpacing.tight'),
+              letterSpacing: theme('letterSpacing.normal'),
               color: theme('colors.gray.100'),
             },
             h2: {
               fontWeight: '700',
-              letterSpacing: theme('letterSpacing.tight'),
+              letterSpacing: theme('letterSpacing.normal'),
               color: theme('colors.gray.100'),
             },
             h3: {
