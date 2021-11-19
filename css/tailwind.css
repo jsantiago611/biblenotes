@@ -10,6 +10,31 @@
     font-style: normal;
     src: url("/fonts/OggText-Light.woff") format("woff")
   }
+  
+  @font-face {
+    font-family: "Bradford";
+    font-weight: 400;
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/BradfordLL-Regular (1).woff2") format("woff2")
+  }
+  
+  @font-face {
+    font-family: "Bradford";
+    font-weight: 400;
+    font-display: swap;
+    font-style: italic;
+    src: url("/fonts/BradfordLL-Italic (1).woff2") format("woff2")
+  }
+  
+    @font-face {
+    font-family: "Bradford";
+    font-weight: 700;
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/BradfordLL-Italic (1).woff2") format("woff2")
+  }
+  
 }
 
 .task-list-item:before {
