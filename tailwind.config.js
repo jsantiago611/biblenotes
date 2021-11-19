@@ -17,7 +17,7 @@ module.exports = {
         14: '3.5rem',
       },
       fontFamily: {
-        sans: ['Ogg Text', ...defaultTheme.fontFamily.sans],
+        sans: ['ogg text', ...defaultTheme.fontFamily.sans],
       },
       colors: {
         primary: colors.teal,
