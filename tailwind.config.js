@@ -18,6 +18,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ['bradford', ...defaultTheme.fontFamily.sans],
+        ogg: ['ogg', ...defaultTheme.fontFamily.sans],
       },
       colors: {
         primary: colors.teal,
