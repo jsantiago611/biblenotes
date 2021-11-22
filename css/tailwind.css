@@ -50,6 +50,10 @@
     src: url("/fonts/MonumentGrotesk-Regular.woff2") format("woff2")
   }
 
+p {
+  @apply text-xl;
+}
+
 .task-list-item:before {
   @apply hidden;
 }
