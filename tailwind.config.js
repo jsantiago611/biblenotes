@@ -22,7 +22,7 @@ module.exports = {
         monument: ['monument', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        primary: colors.teal,
+        primary: colors.emerald,
         gray: colors.trueGray,
       },
       typography: (theme) => ({
