@@ -2,7 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+
   @font-face {
+    font-family: "GT";
+    font-weight: 400;
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/GT-America-Regular.woff2") format("woff2")
+  }
+
+  @font-face {
+    font-family: "GT";
+    font-weight: 700;
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/GT-America-Standard-Bold.woff2") format("woff2")
+  }
+
+@font-face {
     font-family: "Bradford";
     font-weight: 400;
     font-display: swap;
