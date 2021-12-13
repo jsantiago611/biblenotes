@@ -20,6 +20,7 @@ module.exports = {
         sans: ['bradford', ...defaultTheme.fontFamily.serif],
         ogg: ['ogg', ...defaultTheme.fontFamily.sans],
         monument: ['monument', ...defaultTheme.fontFamily.sans],
+        gt: ['gt', ...defaultTheme.fontFamily.sans],
       },
       colors: {
         primary: colors.emerald,
