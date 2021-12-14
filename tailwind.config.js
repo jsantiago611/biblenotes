@@ -21,6 +21,7 @@ module.exports = {
         ogg: ['ogg', ...defaultTheme.fontFamily.sans],
         monument: ['monument', ...defaultTheme.fontFamily.sans],
         gt: ['gt', ...defaultTheme.fontFamily.sans],
+        windsor: ['windsor', ...defaultTheme.fontFamily.sans],
       },
       colors: {
         primary: colors.emerald,
