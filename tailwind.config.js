@@ -24,7 +24,7 @@ module.exports = {
         windsor: ['windsor', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        primary: colors.emerald,
+        primary: colors.sky,
         gray: colors.trueGray,
       },
       typography: (theme) => ({
