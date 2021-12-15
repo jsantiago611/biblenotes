@@ -2,7 +2,7 @@ const siteMetadata = {
   title: "The Parent's Progress",
   author: 'Jonathan D.',
   headerTitle: "The Parent's Progress",
-  description: "The Parent's Progress is a blog that helps busy Christian Parents practice Christian spiritual disciplines so that they can become more like Jesus.",
+  description: "The Parent's Progress offers resources and tools to help busy parents (and their families) become more like Jesus.",
   language: 'en-us',
   siteUrl: 'https://biblenotes-one.vercel.app/',
   siteRepo: 'https://github.com/jsantiago611/biblenotes',
