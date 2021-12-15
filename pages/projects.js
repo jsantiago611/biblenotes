@@ -13,7 +13,7 @@ export default function Projects() {
             Summaries
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Browse through this collection of time-saving sermon and book summaries to quickly boost your spiritual growth. 
+            Browse through this collection of time-saving sermon and book summaries: 
           </p>
         </div>
         <div className="container py-12">
